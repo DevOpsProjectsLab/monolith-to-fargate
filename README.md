@@ -28,6 +28,7 @@ npm install
 ```
 
 Construa a imagem:
+
 ```bash
 docker build -t monolith-fargate .
 ```
