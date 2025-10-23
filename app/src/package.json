@@ -1,0 +1,14 @@
+{
+  "name": "monolith-fargate",
+  "version": "1.0.0",
+  "description": "Aplicação Node.js monolítica migrada para ECS Fargate",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "build": "echo 'build step (caso necessário)'",
+    "test": "echo 'no tests yet'"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
