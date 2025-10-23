@@ -16,11 +16,13 @@ Esse passo é o alicerce de toda a migração, pois:
 ### 🧪 Testando localmente
 
 Acesse o diretório da aplicação:
+
 ```bash
 cd app
 ````
 
 Gere o package-lock.json:
+
 ```bash
 npm install
 ```
